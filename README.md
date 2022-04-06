@@ -1,11 +1,11 @@
-Its a API for check When will be it happen the some one satellite over country.
+Its a API beta for check When will be it happen the some one satellite over country.
 -----------------------
 
 ## DATASOURCES
 
 - celestrak public site.
 - reference document [TLE](https://gportal.jaxa.jp/gpr/assets/mng_upload/GCOM-C/TLE_en.pdf)
-- using librario [orbit predictor satellogic](https://github.com/satellogic/orbit-predictor)
+- using library [orbit predictor satellogic](https://github.com/satellogic/orbit-predictor)
 
 
 ## API
