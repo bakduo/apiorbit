@@ -14,6 +14,20 @@ Its a API beta for check When will be it happen the some one satellite over coun
 POST /api/v1/reload by token
 GET /api/v1/sats by return list satettlites available
 POST /api/v1/orbit by param country=ARG sat=ISS1
+
+Example POST orbit will happend visible over country
+
+HTTP/1.1 200 OK
+Content-Length: 109
+Content-Type: application/json
+Date: We....
+Server: ...
+
+{
+    "message": "It's visisble on ARG  Result:.... 1512 over ARG on 2022-04-07 03:41:...."
+}
+
+
 ```
 
 ## CONFIG json
